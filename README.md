@@ -5,6 +5,13 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- #include<stdio.h>
+- int main()
+- {
+- printf ("hello world");
+- return 0;
+- }
+- 
 
 <!---
 poojitha-0987/poojitha-0987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
